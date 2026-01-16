@@ -1,5 +1,7 @@
 # Feature Vote & Insights - GitHub Copilot Workshop
 
+## https://github.com/Hi-Tech-Training-PSL
+
 A hands-on workshop demonstrating how to build a complete web application using GitHub Copilot. Participants will create an interactive voting system with real-time insights and talking points.
 
 ## 🎯 Workshop Objectives
